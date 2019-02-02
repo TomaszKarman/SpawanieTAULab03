@@ -1,0 +1,9 @@
+<!ELEMENT dataset (spawarka)>
+        <!ELEMENT spawarka EMPTY>
+        <!ATTLIST spawarka
+                id CDATA #REQUIRED
+                name CDATA #REQUIRED
+                model CDATA #IMPLIED
+                kod CDATA #IMPLIED
+                description CDATA #IMPLIED
+                >

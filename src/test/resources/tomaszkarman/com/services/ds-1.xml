@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <spawarka id="1" name="Audi" model="A4" kod="2221" description="Lorem ipsum"/>
+</dataset>

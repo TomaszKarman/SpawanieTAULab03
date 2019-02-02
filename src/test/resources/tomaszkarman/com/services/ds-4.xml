@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <spawarka id="6" name="BMW" model="A4" kod="2226" description="Lorem ipsum"/>
+    <spawarka id="7" name="BMW" model="A4" kod="2227" description="Lorem ipsum"/>
+    <spawarka id="8" name="BMW" model="A4" kod="2228" description="Lorem ipsum"/>
+    <spawarka id="9" name="BMW" model="A4" kod="2229" description="Lorem ipsum"/>
+    <spawarka id="10" name="BMW" model="A4" kod="2230" description="Lorem ipsum"/>
+</dataset>
